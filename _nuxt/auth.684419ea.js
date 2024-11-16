@@ -1,0 +1,1 @@
+import{a8 as t,a9 as o}from"./entry.0a96b526.js";import{u as r}from"./AuthStore.5abfce41.js";import"./SpinnerStore.5162b1aa.js";const n=t((a,s)=>{const e=r();if(proceess.server&&!e.isLoggedIn)return o("/security/login")});export{n as default};
